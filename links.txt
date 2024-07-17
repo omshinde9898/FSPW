@@ -1,0 +1,5 @@
+ld1: https://www.kaggle.com/datasets/yasserh/loan-default-dataset?phase=FinishSSORegistration&returnUrl=/datasets/yasserh/loan-default-dataset/versions/1?resource=download&SSORegistrationToken=CfDJ8GYiNaMVVSVCnegdIdgHCPNNFapGin6AVpNpHfbexj7stHPLSiF1UW-C4PjrvM_h8qPHPzfgrJ6OqK6QAz4jll4OzOu9gl0N-96bk6C_pBhpwG5zoDNTH3131plepbwWEwMYknUcm7n49mkFRIfvuv1A0Cj8q8MUU-khGdN64zubnBcN9q5eTp0Hwxi1G-GsTBSK8Tx6xfyogiHOrn-ScjogixxZiyIEZneuT_rxKQnnksgt1IJ0IkWnGIe48Ztv08kp-w294oFdRs9s8u1rz22CTBDsAciMLB671iIuylCrTB48EiOKmWwu_oYyyf8Wlg0yzSsgwTIY9EdJGE7lFhu2G0U&DisplayName=anuj%20chobe
+ld2: https://www.kaggle.com/datasets/kmldas/loan-default-prediction
+ld3: https://www.kaggle.com/datasets/nikhil1e9/loan-default
+ld4: https://www.kaggle.com/datasets/joebeachcapital/loan-default
+ld5: https://www.kaggle.com/datasets/ankitkalauni/bank-loan-defaulter-prediction-hackathon
